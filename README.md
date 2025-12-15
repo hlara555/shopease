@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/shopease" width="300">
+  <img src="images/shopease.png" width="300">
 </p> 
 
 
