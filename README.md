@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/shopease" width="300">
+</p> 
+
 
 
  # <p align="center"><em> Shopping Behavior Analysis
