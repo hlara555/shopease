@@ -13,12 +13,11 @@
 ## Client Background
 **ShopEase** is a U.S.-based retail company specializing in fashion products, including clothing, footwear, and accessories. Established in 2023, the company has quickly gained popularity as a hometown favorite by offering trend-focused merchandise at accessible price points. As customer demand has grown following the company’s expansion to statewide service, ShopEase seeks to better understand purchasing behavior across product categories, seasons, and customer demographics to support data-driven inventory and marketing decisions.
 
-At the moment ShopEase's, book of business is approaching **11,900 customers**, with **20,000 transactions**, and a **sales revenue of approximately 1M**
+At the moment, ShopEase’s book of business is approaching **11,900 customers**, with **20,000 transactions** and **sales revenue of approximately $1M**. The e-commerce dataset includes dimensions such as time, customer ID, location, and product category, as well as metrics including purchase amount, transaction count, and total sales revenue.
 
-## Project Stakeholders & Workflow
-The analysis followed an iterative **workflow**, beginning with stakeholder alignment on business objectives, followed by exploratory data analysis and validation of findings through periodic stakeholder reviews. Insights were refined based on operational feedback to ensure practical applicability.
+The analysis followed an iterative workflow, beginning with stakeholder alignment on business objectives, followed by exploratory data analysis and validation of findings through periodic stakeholder reviews. Insights were refined based on operational feedback to ensure practical applicability.
 
-Stakeholders: **Operations Manager, Inventory Manager, Marketing and Retail Operations**
+Stakeholders: Operations Manager, Inventory Manager, Marketing, and Retail Operations
 ## Business Problem
 The client lacks clear visibility into:
 - Which product categories perform best
